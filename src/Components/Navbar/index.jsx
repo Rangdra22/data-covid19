@@ -28,7 +28,7 @@ export default function Navbar() {
       </nav> */}
       <nav class="navbar navbar-expand-lg navbar-light bg-light border-nav mb-3">
         <div className="container">
-          <img src={emoji} alt="" className="logo-emoji" />
+          {/* <img src={emoji} alt="" className="logo-emoji" /> */}
           <a class="navbar-brand name-logo">Rangdra</a>
           <button
             class="navbar-toggler"
