@@ -1,5 +1,4 @@
 import React from "react";
-import emoji from "../../images/emoji.png";
 import { Link } from "react-router-dom";
 
 export default function Navbar() {
